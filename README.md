@@ -15,7 +15,7 @@ empty text
 ## Project Structure
 
 ```plaintext
-project_name/
+arith_trainer/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
