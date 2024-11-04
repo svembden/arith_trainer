@@ -10,22 +10,8 @@
 
 ## Introduction
 
-empty text
+The goal of this project will be to expand the project of zetamac's arithmetic game.
 
 ## Project Structure
 
-```plaintext
-arith_trainer/
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── main.py
-├── config/
-│   └── config.ini
-├── logs/
-│   └── app.log
-├── src/
-│   ├── __init__.py
-└── tests/
-    ├── __init__.py
-    └── test_*.py
+
